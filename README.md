@@ -6,6 +6,6 @@ Just click the EXE to convert images and text files.
 -It runs from top left goes to the right and then down when it reaches the right edge
 
 The output image has the following text in it 
-"This is a key.... Hello CTF'ers MCA2fa2b3d4d2 and this is useless text you don't need to know"
+"This is a key.... Hello CTF'ers MCA-2fa2b3d4 and this is useless text you don't need to know"
 
-the key for this challenge is "MCA2fa2b3d4d2"
+the key for this challenge is "MCA-2fa2b3d4"
